@@ -2,6 +2,6 @@ package org.lessons.java;
 
 public class StampaSaluto {
 	public static void main(String[] args) {
-		System.out.println("Ciao25!");
+		System.out.println("Ciao sono il footer!");
 	}
 }
